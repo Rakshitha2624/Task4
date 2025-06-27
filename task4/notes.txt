@@ -1,0 +1,8 @@
+Note Entry:
+This is my first note using the Java Notes Manager.
+It saves my input to a file using FileWriter.
+-----
+Note Entry:
+Java makes it easy to read and write files.
+BufferedReader helps in reading content line by line.
+-----
